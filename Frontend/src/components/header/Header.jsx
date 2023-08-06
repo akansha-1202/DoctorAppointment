@@ -52,7 +52,7 @@ const Header = () => {
                     className={`text-lg ${
                       activePath === link.path
                         ? "text-black" // Black color for active link
-                        : "text-yellow-500 hover:text-red-500 hover:scale-110" // Yellow color and hover effect for inactive links
+                        : "text-pink-500 hover:text-red-500 hover:scale-110" // Yellow color and hover effect for inactive links
                     }`}
                     onClick={() => handleLinkClick(link.path)} // Handle link click
                   >
