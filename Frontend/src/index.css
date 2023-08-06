@@ -25,9 +25,9 @@
     @apply text-[18px] leading-[30px] font-[400] text-textColor mt-[18px];
   }
 
-  .hover\:scale-110:hover {
+  /* .hover\:scale-110:hover {
     transform: scale(1.1) !important;
-  }
+  } */
 }
 
 @media only screen and (max-width: 1024px) {

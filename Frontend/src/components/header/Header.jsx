@@ -64,6 +64,8 @@ const Header = () => {
           </nav>
         </div>
       </div>
+
+      <div className="hover:scale-110">ndjjdwojd</div>
     </header>
   );
 };
